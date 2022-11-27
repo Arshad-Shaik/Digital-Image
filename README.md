@@ -1,1 +1,1 @@
-# Digital-Image
+# DigitalImage
